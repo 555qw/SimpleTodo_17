@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.container {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.input-area {
+    margin: 20px 0;
+}
+
+input, button {
+    padding: 8px;
+    margin: 5px;
+}
+
+.task-item {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: #888;
+}
+
+.footer {
+    margin-top: 20px;
+    color: #666;
+}
